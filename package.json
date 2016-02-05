@@ -1,0 +1,33 @@
+{
+  "name": "maki-client-level",
+  "version": "0.1.0",
+  "description": "Adds support for LevelDB to the Maki browser client.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martindale/maki-client-level.git"
+  },
+  "keywords": [
+    "maki",
+    "plugin",
+    "level",
+    "leveldb",
+    "framework",
+    "db",
+    "database",
+    "client",
+    "browser"
+  ],
+  "author": "Eric Martindale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martindale/maki-client-level/issues"
+  },
+  "homepage": "https://github.com/martindale/maki-client-level",
+  "dependencies": {
+    "level-js": "^2.2.3"
+  }
+}
